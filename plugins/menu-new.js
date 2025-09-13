@@ -43,7 +43,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363317972190466@newsletter',
+                newsletterJid: '120363397446799567@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
@@ -121,6 +121,7 @@ cmd({
 ┃★│ 🌐 *Social Media*
 ┃★│ • facebook [url]
 ┃★│ • mediafire [url]
+┃★│ • megadl [url]
 ┃★│ • tiktok [url]
 ┃★│ • twitter [url]
 ┃★│ • Insta [url]
@@ -135,6 +136,7 @@ cmd({
 ┃★╭──────────────
 ┃★│ 🎵 *Music/Video*
 ┃★│ • spotify [query]
+┃★│ • spt [url]
 ┃★│ • play [song]
 ┃★│ • play2-10 [song]
 ┃★│ • audio [url]
@@ -143,6 +145,8 @@ cmd({
 ┃★│ • ytmp3 [url]
 ┃★│ • ytmp4 [url]
 ┃★│ • song [name]
+┃★│ • songx [name]
+┃★│ • videox [name]
 ┃★│ • darama [name]
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷

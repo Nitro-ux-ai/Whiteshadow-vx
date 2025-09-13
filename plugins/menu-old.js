@@ -53,7 +53,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD👑️',
                         serverMessageId: 143
                     }
@@ -72,7 +72,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363317972190466@newsletter',
+                    newsletterJid: '120363397446799567@newsletter',
                     newsletterName: 'WHITESHADOW-MD🎈',
                     serverMessageId: 143
                 }
@@ -141,7 +141,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: "WHITESHADOW-MD",
                         serverMessageId: 143
                     }
@@ -207,7 +207,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD💀',
                         serverMessageId: 144
                     }
@@ -237,6 +237,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈╭─────────────·๏
 ┃◈┃• facebook
 ┃◈┃• mediafire
+┃◈┃• megadl
 ┃◈┃• tiktok
 ┃◈┃• twitter
 ┃◈┃• Insta
@@ -248,6 +249,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• fb2
 ┃◈┃• pinterest 
 ┃◈┃• spotify
+┃◈┃• spt
 ┃◈┃• play
 ┃◈┃• play2
 ┃◈┃• play3
@@ -269,9 +271,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• video8
 ┃◈┃• video9
 ┃◈┃• video10
+┃◈┃• videox
 ┃◈┃• ytmp3
 ┃◈┃• ytmp4
 ┃◈┃• song
+┃◈┃• songx
 ┃◈┃• darama
 ┃◈┃• gdrive
 ┃◈┃• ssweb
@@ -290,7 +294,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD❤️',
                         serverMessageId: 143
                     }
@@ -368,7 +372,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD💀',
                         serverMessageId: 143
                     }
@@ -435,7 +439,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD🍓',
                         serverMessageId: 143
                     }
@@ -506,7 +510,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD👑️',
                         serverMessageId: 143
                     }
@@ -558,7 +562,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD👑️',
                         serverMessageId: 143
                     }
@@ -617,7 +621,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD📍',
                         serverMessageId: 143
                     }
@@ -661,6 +665,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• urldecode
 ┃◈┃• urlencode
 ┃◈┃• url
+┃◈┃• upmf
+┃◈┃• upmega
 ┃◈┃• repeat 
 ┃◈┃• ask
 ┃◈┃• readmore
@@ -678,7 +684,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD💀',
                         serverMessageId: 143
                     }
@@ -747,7 +753,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-MD❤️',
                         serverMessageId: 143
                     }
@@ -806,7 +812,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363317972190466@newsletter',
+                        newsletterJid: '120363397446799567@newsletter',
                         newsletterName: 'WHITESHADOW-AI📍',
                         serverMessageId: 143
                     }

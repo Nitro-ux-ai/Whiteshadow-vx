@@ -9,7 +9,7 @@
     "restart": "pm2 restart WHITESHADOW-MD"
   },
 "dependencies": {
-    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys",
+    "@whiskeysockets/baileys": "github:mrfr8nk/baileys",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -62,6 +62,7 @@
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
     "mrnima-moviedl":"1.0.0",
-    "openai": "^4.7.0"
+    "openai": "^4.7.0",
+  "@google/genai": "^0.7.0"
   }
 }
